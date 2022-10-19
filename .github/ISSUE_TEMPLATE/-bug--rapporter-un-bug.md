@@ -1,5 +1,5 @@
 ---
-name: ":bug: Rapporter un bug"
+name: "\U0001F41B Rapporter un bug"
 about: Remonter un bug dans l'app
 title: "[BUG]: "
 labels: bug
