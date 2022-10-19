@@ -1,5 +1,5 @@
 ---
-name: ":rocket: Ajouter une fonctionnalité"
+name: "\U0001F680 Ajouter une fonctionnalité"
 about: Vous avez une suggestion à proposer?
 title: "[FEATURE]: "
 labels: enhancement
