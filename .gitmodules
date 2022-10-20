@@ -1,0 +1,3 @@
+[submodule "localib-back"]
+	path = localib-back
+	url = https://github.com/CheeseWolt/localib-back
